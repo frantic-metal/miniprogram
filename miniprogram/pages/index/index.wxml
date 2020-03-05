@@ -55,5 +55,10 @@
     </navigator>
   </view>
 
-
+  <!-- webViewPage -->
+  <view class="uploader">
+    <navigator url="../webViewPage/webViewPage" open-type="navigate" class="uploader-text">
+      <text>web view</text>
+    </navigator>
+  </view>
 </view>

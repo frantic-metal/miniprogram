@@ -6,7 +6,15 @@
 - 文件存储：在小程序前端直接上传/下载云端文件，在云开发控制台可视化管理
 - 云函数：在云端运行的代码，微信私有协议天然鉴权，开发者只需编写业务逻辑代码
 
+
+## 小程序管理后台
+
+[小程序管理后台](https://mp.weixin.qq.com/wxamp/home/guide?lang=zh_CN&token=526431349)
+
+
+
 ## 参考文档
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
+
 
